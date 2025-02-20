@@ -1,4 +1,6 @@
 #!/bin/bash
 ls -l
 ls -n
-ls -a
+touch .hidden_file1
+touch .hidden_file2
+touch .hidden_file3
