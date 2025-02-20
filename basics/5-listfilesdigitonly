@@ -1,6 +1,3 @@
 #!/bin/bash
 ls -l
 ls -na
-touch .hidden_file1
-touch .hidden_file2
-touch .hidden_file3
