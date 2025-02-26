@@ -1,0 +1,2 @@
+#!/bin/bash
+tr test text lowercase to upercase
